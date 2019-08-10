@@ -1,0 +1,19 @@
+python get-pip.py
+
+pip install awscli
+
+python --version
+
+aws
+
+
+babun --cli
+
+accenture-pass-13Smc106@2906
+
+
+https://drive.google.com/drive/folders/1ipApIXYoSev1LUUoa0cRtv0DcD6cfrXA?usp=sharing
+
+
+
+https://emea01.safelinks.protection.outlook.com/?url=https://atos365-my.sharepoint.com/:f:/g/personal/m_bhaskar_atos_net/EixfNSdamQtEn-FySnflS8oBaUrqvAIG2NHgFxiTNppgIQ?e%3DjDJ6hz&data=02%7c01%7cranjeet.3.singh%40atos.net%7cd2cfe62f791b4aa050dd08d68051587c%7c33440fc6b7c7412cbb730e70b0198d5a%7c0%7c0%7c636837484197451344&sdata=ubza51wAXHqJeXXICR%2BUVnhHugVLI1xO0tcv/aCK3lM%3D&reserved=0
